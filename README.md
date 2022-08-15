@@ -1,7 +1,7 @@
-## I'm Siddharth Chauahn) 👋
+## I'm Siddharth Chauahn 👋
 
 <a href="https://www.linkedin.com/in/siddharth-chauhan-cse">
-  <img align="left" alt="Ankit Sahu | Linkedin" width="21px" src="https://www.iconfinder.com/icons/272550/linkedin_icon" />
+  <img align="left" alt="Siddharth Chauhan | Linkedin" width="21px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 <br />
 <!--
@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 - I’m currently a Master's student at UT Dallas majoring in Information System graduating in December 2022.
 - I’m currently working on my Statistics and Machine learning concepts.
-- Fun fact: I love Electronic Dance Music and I'm always listening to it! In my freetime I sketch, write or 'try' producing music.
+- Fun fact: 
+  I love Electronic Dance Music and I'm always listening to it!
+  In my freetime I sketch, write or 'try' producing music.
   <br />
 <span>
   
