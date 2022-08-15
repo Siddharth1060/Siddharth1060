@@ -1,11 +1,11 @@
 ## I'm Siddharth Chauahn) 👋
 
-<a href="https://www.linkedin.com/in/humbleguy/">
-  <img align="left" alt="Ankit Sahu | Linkedin" width="21px" src="https://raw.githubusercontent.com/sahuankit010/sahuankit010/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/siddharth-chauhan-cse">
+  <img align="left" alt="Ankit Sahu | Linkedin" width="21px" src="https://www.iconfinder.com/icons/272550/linkedin_icon" />
 </a>
 <br />
 <!--
-**sahuankit010/sahuankit010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Siddharth1060/Siddharth1060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm an aspiring Software Developer, a Competitive Coder and a Web Developer!
+### I'm an aspiring Data Scientist!
 
 
-- I’m currently a graduate student at UT Dallas majoring in Information System.
-- I’m currently learning something new everyday.
-- Fun fact: I love chess. In my freetime, I also play cricket.
+- I’m currently a Master's student at UT Dallas majoring in Information System graduating in December 2022.
+- I’m currently working on my Statistics and Machine learning concepts.
+- Fun fact: I love Electronic Dance Music and I'm always listening to it! In my freetime I sketch, write or 'try' producing music.
   <br />
 <span>
   
