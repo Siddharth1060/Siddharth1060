@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### I'm an aspiring Data Scientist!
 
 
-- I’m currently a Master's student at UT Dallas majoring in Information System graduating in December 2022.
+- I’m an UT Dallas alumini graduated in December 2022 with a major in Information System.
 - I’m currently working on my Statistics and Machine learning concepts.
 - Fun fact: 
   I love Electronic Dance Music and I'm always listening to it!
